@@ -1,0 +1,5 @@
+trustpilot:
+  url: https://www.trustpilot.com/review/
+
+cache:
+  expiration: 12
